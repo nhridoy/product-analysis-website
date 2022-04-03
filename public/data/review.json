@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": 1,
+    "username": "John",
+    "rating": 5,
+    "comment": "Extraordinary Product. I will recommend this to all my friends.",
+    "date": "2019-01-01"
+  },
+  {
+    "id": 2,
+    "username": "Jane",
+    "rating": 4,
+    "comment": "Good Product. I will recommend this to all my friends.",
+    "date": "2019-01-02"
+  },
+  {
+    "id": 3,
+    "username": "Jack",
+    "rating": 3,
+    "comment": "Average Product. I might recommend this to my friends.",
+    "date": "2019-01-03"
+  },
+  {
+    "id": 4,
+    "username": "Jill",
+    "rating": 2,
+    "comment": "Bad Product. I will not recommend this to my friends.",
+    "date": "2019-01-04"
+  },
+  {
+    "id": 5,
+    "username": "Jimmie",
+    "rating": 1,
+    "comment": "Worst Product. I will not recommend this to anyone.",
+    "date": "2019-01-04"
+  },
+  {
+    "id": 6,
+    "username": "jessica",
+    "rating": 5,
+    "comment": "Best Product. I will recommend this to all my friends.",
+    "date": "2019-01-04"
+  }
+]

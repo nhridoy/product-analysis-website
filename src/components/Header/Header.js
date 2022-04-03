@@ -3,8 +3,8 @@ import { NavLink } from "react-router-dom";
 
 const Header = () => {
   return (
-    <div className="container mx-auto p-4 sticky top-4">
-      <div className="flex justify-between items-center">
+    <div className="sticky top-0 bg-gray-300 drop-shadow-md shadow-white">
+      <div className="flex justify-between items-center container mx-auto p-4">
         <NavLink
           to="/"
           className="border-4 rounded border-orange-500 text-3xl font-semibold px-4 py-3"

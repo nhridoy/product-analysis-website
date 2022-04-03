@@ -5,7 +5,6 @@ import useReviews from "../../../hooks/useReviews";
 
 const Review = () => {
   const [reviews, setReviews] = useReviews();
-  console.log(reviews);
   return (
     <div className="py-4 bg-white">
       <div className="container mx-auto flex flex-col gap-4 items-center">

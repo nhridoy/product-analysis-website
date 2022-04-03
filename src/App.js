@@ -1,6 +1,7 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import Header from "./components/Header/Header";
+import Blogs from "./Pages/Blogs/Blogs";
 import Dashboard from "./Pages/Dashboard/Dashboard";
 import Home from "./Pages/Home/Home";
 import Reviews from "./Pages/Reviews/Reviews";
@@ -13,6 +14,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/reviews" element={<Reviews />} />
         <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/blogs" element={<Blogs />} />
       </Routes>
     </div>
   );
